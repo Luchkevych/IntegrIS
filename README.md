@@ -52,7 +52,7 @@ For detailed explanation on how things work, checkout the [guide](https://github
 - [CHANGELOG](./CHANGELOG.md)
 - [version-badge](https://img.shields.io/badge/version-1.0.1-blue.svg)
 - [license-badge](https://img.shields.io/badge/license-MIT-blue.svg)
-test
+test 2
 
 ## License
 
